@@ -16,7 +16,7 @@ data = {
 
 r = requests.post(
     url='https://bigjpg.com/api/task/',
-    headers={'X-API-KEY': "dacb2cc92d16470f95926cf75af92982"},
+    headers={'X-API-KEY': "your key"},
     data={'conf': json.dumps(data)}
     )
 print(r.json())
