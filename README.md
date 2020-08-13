@@ -1,0 +1,4 @@
+# Bigjpg_Python
+通过官方API接口调用bigjpg放大文件
+使用python
+请自行替换your key为你自己的key
