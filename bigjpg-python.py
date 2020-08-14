@@ -21,3 +21,4 @@ r = requests.post(
     )
 print(r.json())
 input("按任意键关闭")
+#要不要加个睡眠进程呢。。。
